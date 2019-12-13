@@ -1,0 +1,1596 @@
+18:19:12.766 logback [main] INFO  c.e.w.demo.router.userServiceTest - Starting userServiceTest on localhost with PID 2568 (started by develop in /www/haoweilai/demo)
+18:19:12.768 logback [main] INFO  c.e.w.demo.router.userServiceTest - No active profile set, falling back to default profiles: default
+18:19:14.472 logback [main] INFO  c.e.w.demo.router.userServiceTest - Started userServiceTest in 2.411 seconds (JVM running for 4.314)
+18:19:14.859 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+18:19:14.862 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:19:14.863 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:19:15.189 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+18:19:15.189 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:19:15.189 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:48:08.052 logback [main] INFO  c.e.w.demo.router.userServiceTest - Starting userServiceTest on localhost with PID 31751 (started by develop in /www/haoweilai/demo)
+18:48:08.071 logback [main] INFO  c.e.w.demo.router.userServiceTest - No active profile set, falling back to default profiles: default
+18:48:10.147 logback [main] INFO  c.e.w.demo.router.userServiceTest - Started userServiceTest in 2.811 seconds (JVM running for 5.069)
+18:48:10.578 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+18:48:10.581 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:48:10.581 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:48:10.855 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+18:48:10.855 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:48:10.855 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:49:22.263 logback [main] INFO  c.e.w.demo.router.userServiceTest - Starting userServiceTest on localhost with PID 33104 (started by develop in /www/haoweilai/demo)
+18:49:22.268 logback [main] INFO  c.e.w.demo.router.userServiceTest - No active profile set, falling back to default profiles: default
+18:49:23.942 logback [main] INFO  c.e.w.demo.router.userServiceTest - Started userServiceTest in 2.284 seconds (JVM running for 4.258)
+18:49:24.281 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+18:49:24.283 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:49:24.283 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:49:24.533 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+18:49:24.533 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:49:24.534 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:49:24.788 logback [main] ERROR c.e.w.demo.router.UserService - 412 Precondition Failed from GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+18:49:24.788 logback [main] INFO  c.e.w.demo.router.UserService - map: {}
+18:50:25.467 logback [main] INFO  c.e.w.demo.router.userServiceTest - Starting userServiceTest on localhost with PID 34149 (started by develop in /www/haoweilai/demo)
+18:50:25.469 logback [main] INFO  c.e.w.demo.router.userServiceTest - No active profile set, falling back to default profiles: default
+18:50:28.414 logback [main] INFO  c.e.w.demo.router.userServiceTest - Started userServiceTest in 3.773 seconds (JVM running for 5.676)
+18:50:28.700 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+18:50:28.704 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:50:28.704 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:50:28.963 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+18:50:28.963 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:50:28.963 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:50:29.237 logback [main] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：412 Precondition Failed from GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+18:50:29.238 logback [main] INFO  c.e.w.demo.router.UserService - map: {}
+18:52:56.310 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 36616 (started by develop in /www/haoweilai/demo)
+18:52:56.315 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+18:52:58.112 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.578 seconds (JVM running for 4.513)
+18:52:58.473 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+18:52:58.475 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:52:58.476 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:52:58.744 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+18:52:58.744 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+18:52:58.744 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+18:53:08.961 logback [main] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：412 Precondition Failed from GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+18:53:08.963 logback [main] INFO  c.e.w.demo.router.UserService - map: {}
+19:38:02.055 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 76989 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+19:38:02.062 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+19:38:04.014 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+19:38:04.019 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 3.381 seconds (JVM running for 4.763)
+19:47:54.119 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 87183 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+19:47:54.124 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+19:47:55.301 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+19:47:55.305 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 2.044 seconds (JVM running for 3.072)
+19:48:25.842 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+19:48:25.850 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:48:25.850 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:48:26.123 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+19:48:26.124 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:48:26.124 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:48:26.125 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+19:48:26.126 logback [reactor-http-nio-3] INFO  c.e.w.demo.router.UserService - map: {}
+19:48:55.341 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 88229 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+19:48:55.344 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+19:48:56.451 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+19:48:56.456 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 1.891 seconds (JVM running for 2.742)
+19:49:06.428 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+19:49:06.450 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:49:06.450 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:49:07.209 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+19:49:07.209 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:49:07.209 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:49:07.269 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [df3f9028]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:49)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:17)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+19:51:33.093 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 90990 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+19:51:33.097 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+19:51:34.129 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+19:51:34.133 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 1.82 seconds (JVM running for 2.612)
+19:51:39.344 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+19:51:39.350 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:51:39.350 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:51:39.595 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+19:51:39.595 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:51:39.596 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:51:39.638 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [50b70f20]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:49)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:19)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+19:58:24.443 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 97951 (started by develop in /www/haoweilai/demo)
+19:58:24.445 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+19:58:26.258 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.436 seconds (JVM running for 4.357)
+19:58:26.579 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+19:58:26.581 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:58:26.581 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:58:26.789 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+19:58:26.789 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:58:26.790 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:59:23.661 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 98846 (started by develop in /www/haoweilai/demo)
+19:59:23.664 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+19:59:25.520 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.658 seconds (JVM running for 4.589)
+19:59:25.883 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+19:59:25.885 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:59:25.886 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+19:59:26.126 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+19:59:26.126 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+19:59:26.127 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:03:32.025 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 3267 (started by develop in /www/haoweilai/demo)
+20:03:32.030 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+20:03:33.861 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.744 seconds (JVM running for 4.784)
+20:03:34.193 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:03:34.195 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:03:34.195 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:03:34.428 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:03:34.429 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:03:34.429 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:03:34.722 logback [main] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：412 Precondition Failed from GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:05:27.282 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 5336 (started by develop in /www/haoweilai/demo)
+20:05:27.284 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+20:05:29.078 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.565 seconds (JVM running for 4.567)
+20:05:29.358 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:05:29.361 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:05:29.361 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:05:29.578 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:05:29.578 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:05:29.579 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:05:29.844 logback [main] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：412 Precondition Failed from GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:05:50.556 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 5687 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+20:05:50.561 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+20:05:51.703 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+20:05:51.707 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 2.009 seconds (JVM running for 3.046)
+20:05:58.480 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:05:58.484 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:05:58.484 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:05:58.622 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:05:58.623 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:05:58.623 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:05:58.624 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+20:06:39.911 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 6555 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+20:06:39.914 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+20:06:40.907 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+20:06:40.911 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 1.82 seconds (JVM running for 2.637)
+20:06:53.794 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:06:53.801 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:06:53.801 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:06:53.966 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:06:53.966 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:06:53.966 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:06:54.028 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [65c3906b]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:54)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:19)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+20:07:20.119 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 7246 (started by develop in /www/haoweilai/demo)
+20:07:20.121 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+20:07:21.889 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.384 seconds (JVM running for 4.649)
+20:07:22.240 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:07:22.242 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:07:22.243 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:07:22.451 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:07:22.452 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:07:22.452 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:08:44.607 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 8638 (started by develop in /www/haoweilai/demo)
+20:08:44.610 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+20:08:46.336 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.511 seconds (JVM running for 4.544)
+20:08:46.555 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:08:46.557 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:08:46.557 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:08:46.772 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:08:46.772 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:08:46.773 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:08:56.337 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:08:56.343 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:08:56.343 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:08:56.367 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:08:56.368 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:08:56.368 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:08:56.376 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [65c3906b]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:54)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:19)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+20:09:00.730 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:09:00.731 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:00.731 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:00.734 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:09:00.734 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:00.734 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:00.736 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [65c3906b]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:54)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:19)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+20:09:01.422 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:09:01.423 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:01.424 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:01.426 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:09:01.426 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:01.426 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:01.430 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [65c3906b]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:54)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:19)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+20:09:01.997 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:09:01.997 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:01.997 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:01.999 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:09:01.999 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:01.999 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:02.002 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [65c3906b]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:54)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:19)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+20:09:03.046 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:09:03.047 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:03.047 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:03.048 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:09:03.048 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:03.048 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:03.050 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [65c3906b]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:54)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:19)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+20:09:03.712 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:09:03.712 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:03.712 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:03.713 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:09:03.714 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:09:03.714 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:09:03.716 logback [reactor-http-nio-3] ERROR o.s.b.a.w.r.e.AbstractErrorWebExceptionHandler - [65c3906b]  500 Server Error for HTTP GET "/test/test1"
+java.lang.IllegalStateException: block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ HTTP GET "/test/test1" [ExceptionHandlingWebHandler]
+Stack trace:
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:77)
+		at reactor.core.publisher.Mono.block(Mono.java:1663)
+		at com.example.webclient.demo.router.UserService.testMono1(UserService.java:54)
+		at com.example.webclient.demo.controller.TestController.test1(TestController.java:19)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.springframework.web.reactive.result.method.InvocableHandlerMethod.lambda$invoke$0(InvocableHandlerMethod.java:147)
+		at reactor.core.publisher.FluxFlatMap.trySubscribeScalarMap(FluxFlatMap.java:151)
+		at reactor.core.publisher.MonoFlatMap.subscribeOrReturn(MonoFlatMap.java:53)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:48)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:153)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoFlatMap$FlatMapMain.onNext(MonoFlatMap.java:150)
+		at reactor.core.publisher.FluxSwitchIfEmpty$SwitchIfEmptySubscriber.onNext(FluxSwitchIfEmpty.java:67)
+		at reactor.core.publisher.MonoNext$NextSubscriber.onNext(MonoNext.java:76)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.innerNext(FluxConcatMap.java:274)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapInner.onNext(FluxConcatMap.java:851)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onNext(FluxMapFuseable.java:121)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onNext(MonoPeekTerminal.java:173)
+		at reactor.core.publisher.Operators$ScalarSubscription.request(Operators.java:2186)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.request(MonoPeekTerminal.java:132)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.request(FluxMapFuseable.java:162)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.set(Operators.java:1994)
+		at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onSubscribe(Operators.java:1868)
+		at reactor.core.publisher.FluxMapFuseable$MapFuseableSubscriber.onSubscribe(FluxMapFuseable.java:90)
+		at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onSubscribe(MonoPeekTerminal.java:145)
+		at reactor.core.publisher.MonoJust.subscribe(MonoJust.java:54)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.drain(FluxConcatMap.java:441)
+		at reactor.core.publisher.FluxConcatMap$ConcatMapImmediate.onSubscribe(FluxConcatMap.java:211)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:139)
+		at reactor.core.publisher.FluxIterable.subscribe(FluxIterable.java:63)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.core.publisher.MonoDefer.subscribe(MonoDefer.java:52)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.drain(MonoIgnoreThen.java:172)
+		at reactor.core.publisher.MonoIgnoreThen.subscribe(MonoIgnoreThen.java:56)
+		at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:55)
+		at reactor.netty.http.server.HttpServerHandle.onStateChange(HttpServerHandle.java:64)
+		at reactor.netty.tcp.TcpServerBind$ChildObserver.onStateChange(TcpServerBind.java:226)
+		at reactor.netty.http.server.HttpServerOperations.onInboundNext(HttpServerOperations.java:441)
+		at reactor.netty.channel.ChannelOperationsHandler.channelRead(ChannelOperationsHandler.java:89)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at reactor.netty.http.server.HttpTrafficHandler.channelRead(HttpTrafficHandler.java:167)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:326)
+		at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:313)
+		at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:427)
+		at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:281)
+		at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:352)
+		at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1422)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:374)
+		at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:360)
+		at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:931)
+		at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:700)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:635)
+		at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:552)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:514)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+20:11:59.060 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 11946 (started by develop in /www/haoweilai/demo)
+20:11:59.061 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+20:12:00.720 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.267 seconds (JVM running for 4.202)
+20:12:01.038 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:12:01.040 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:12:01.041 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:12:01.296 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:12:01.296 logback [main] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:12:01.296 logback [main] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:12:01.596 logback [main] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：412 Precondition Failed from GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:12:08.757 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:12:08.760 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:12:08.761 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:12:08.766 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:12:08.766 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:12:08.766 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:12:08.767 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+20:12:10.227 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/groups
+20:12:10.228 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:12:10.228 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:12:10.229 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://test-class-api.haibian.com/classroom/classroom/account/v1/teacher/students/group-arrive-status
+20:12:10.230 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - liveId=100479221
+20:12:10.230 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - tutorId=XN024973
+20:12:10.231 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+20:16:39.779 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 16676 (started by develop in /www/haoweilai/demo)
+20:16:39.781 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+20:16:41.464 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.522 seconds (JVM running for 4.465)
+20:16:41.788 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:16:42.021 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:16:45.425 logback [main] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：JSON decoding error: Cannot deserialize instance of `java.util.ArrayList<com.example.webclient.demo.router.GroupDto>` out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<com.example.webclient.demo.router.GroupDto>` out of START_OBJECT token
+ at [Source: (io.netty.buffer.ByteBufInputStream); line: 1, column: 1]
+20:21:09.276 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 21228 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+20:21:09.281 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+20:21:10.267 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+20:21:10.271 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 1.818 seconds (JVM running for 2.644)
+20:21:27.963 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:21:28.115 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:21:28.116 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+20:21:42.739 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 21757 (started by develop in /www/haoweilai/demo)
+20:21:42.741 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+20:21:44.448 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.451 seconds (JVM running for 4.273)
+20:21:44.786 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:21:45.014 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:22:55.525 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 22979 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+20:22:55.529 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+20:22:56.584 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+20:22:56.588 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 1.892 seconds (JVM running for 2.809)
+20:23:06.066 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:23:06.305 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:23:06.306 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+20:24:05.961 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 24207 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+20:24:05.965 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+20:24:07.012 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+20:24:07.017 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 1.854 seconds (JVM running for 2.709)
+20:24:12.660 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:24:12.817 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:25:28.239 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 25604 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+20:25:28.242 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+20:25:29.613 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+20:25:29.618 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 2.189 seconds (JVM running for 3.053)
+20:25:32.710 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:25:32.846 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:26:25.893 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 26642 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+20:26:25.897 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+20:26:26.959 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+20:26:26.963 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 1.862 seconds (JVM running for 2.732)
+20:26:30.575 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:26:30.754 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:26:33.348 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:26:33.354 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:26:34.625 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:26:34.629 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:30:43.681 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 31019 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+20:30:43.687 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+20:30:45.944 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+20:30:45.957 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 3.467 seconds (JVM running for 5.833)
+20:42:51.458 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+20:42:51.525 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+20:42:51.527 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+21:00:33.697 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 61444 (started by develop in /www/haoweilai/demo)
+21:00:33.699 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+21:00:35.522 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.479 seconds (JVM running for 4.444)
+21:00:35.861 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+21:00:36.078 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+21:00:36.145 logback [reactor-http-nio-1] WARN  i.n.util.concurrent.DefaultPromise - An exception was thrown by reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete()
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.IllegalStateException: executor not accepting a task
+Caused by: java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to GET http://localhost:20090/supervise/test/mono1 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:11:00.787 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 71989 (started by develop in /www/haoweilai/demo)
+21:11:00.791 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+21:11:02.748 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.967 seconds (JVM running for 4.945)
+21:11:03.168 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+21:11:03.429 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+21:11:51.252 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 72865 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+21:11:51.255 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+21:11:52.582 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+21:11:52.586 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 2.128 seconds (JVM running for 3.114)
+21:12:10.176 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+21:12:10.357 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+21:12:10.360 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+21:17:00.351 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 78112 (started by develop in /www/haoweilai/demo)
+21:17:00.354 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+21:17:02.255 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.658 seconds (JVM running for 4.698)
+21:17:02.609 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+21:17:02.832 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+21:17:02.915 logback [reactor-http-nio-2] WARN  i.n.util.concurrent.DefaultPromise - An exception was thrown by reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete()
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.NullPointerException
+Caused by: java.lang.NullPointerException: null
+	at reactor.netty.resources.ColocatedEventLoopGroup.register(ColocatedEventLoopGroup.java:69)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to POST http://localhost:20090/supervise/test/mono2 [DefaultWebClient]
+Stack trace:
+		at reactor.netty.resources.ColocatedEventLoopGroup.register(ColocatedEventLoopGroup.java:69)
+		at io.netty.bootstrap.AbstractBootstrap.initAndRegister(AbstractBootstrap.java:311)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect(Bootstrap.java:157)
+		at io.netty.bootstrap.Bootstrap.connect(Bootstrap.java:118)
+		at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator.lambda$connectChannel$0(PooledConnectionProvider.java:245)
+		at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4105)
+		at reactor.core.publisher.Mono.subscribeWith(Mono.java:4211)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4077)
+		at reactor.core.publisher.Mono.subscribe(Mono.java:4013)
+		at reactor.netty.internal.shaded.reactor.pool.SimplePool.drainLoop(SimplePool.java:201)
+		at reactor.netty.internal.shaded.reactor.pool.SimplePool.drain(SimplePool.java:172)
+		at reactor.netty.internal.shaded.reactor.pool.SimplePool.doAcquire(SimplePool.java:132)
+		at reactor.netty.internal.shaded.reactor.pool.AbstractPool$Borrower.request(AbstractPool.java:336)
+		at reactor.netty.resources.PooledConnectionProvider$DisposableAcquire.onSubscribe(PooledConnectionProvider.java:501)
+		at reactor.netty.internal.shaded.reactor.pool.SimplePool$QueueBorrowerMono.subscribe(SimplePool.java:324)
+		at reactor.netty.resources.PooledConnectionProvider.disposableAcquire(PooledConnectionProvider.java:209)
+		at reactor.netty.resources.PooledConnectionProvider.lambda$acquire$3(PooledConnectionProvider.java:166)
+		at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57)
+		at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect.lambda$subscribe$0(HttpClientConnect.java:319)
+		at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:57)
+		at reactor.core.publisher.FluxRetryPredicate$RetryPredicateSubscriber.resubscribe(FluxRetryPredicate.java:124)
+		at reactor.core.publisher.FluxRetryPredicate$RetryPredicateSubscriber.onError(FluxRetryPredicate.java:99)
+		at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+		at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect$TcpClientSubscriber.onError(HttpClientConnect.java:345)
+		at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+		at reactor.netty.resources.PooledConnectionProvider$DisposableAcquire.onError(PooledConnectionProvider.java:493)
+		at reactor.netty.internal.shaded.reactor.pool.AbstractPool$Borrower.fail(AbstractPool.java:381)
+		at reactor.netty.internal.shaded.reactor.pool.SimplePool.lambda$drainLoop$7(SimplePool.java:206)
+		at reactor.core.publisher.LambdaMonoSubscriber.doError(LambdaMonoSubscriber.java:152)
+		at reactor.core.publisher.LambdaMonoSubscriber.onError(LambdaMonoSubscriber.java:147)
+		at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+		at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete(PooledConnectionProvider.java:304)
+		at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete(PooledConnectionProvider.java:254)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners0(DefaultPromise.java:570)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:549)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:608)
+		at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:117)
+		at io.netty.channel.nio.AbstractNioChannel.doClose(AbstractNioChannel.java:502)
+		at io.netty.channel.socket.nio.NioSocketChannel.doClose(NioSocketChannel.java:342)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.doClose0(AbstractChannel.java:760)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.close(AbstractChannel.java:737)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.close(AbstractChannel.java:608)
+		at io.netty.channel.nio.NioEventLoop.closeAll(NioEventLoop.java:748)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:527)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:22:23.877 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 83549 (started by develop in /www/haoweilai/demo)
+21:22:23.879 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+21:22:25.849 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.84 seconds (JVM running for 5.109)
+21:22:26.191 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+21:22:26.413 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+21:22:26.571 logback [reactor-http-nio-2] WARN  r.n.http.client.HttpClientConnect - [id: 0x9b3427c6, L:0.0.0.0/0.0.0.0:54108 ! R:localhost/127.0.0.1:20090] The connection observed an error
+reactor.netty.http.client.PrematureCloseException: Connection prematurely closed BEFORE response
+21:22:26.571 logback [reactor-http-nio-1] WARN  r.n.http.client.HttpClientConnect - [id: 0xe98612c9, L:0.0.0.0/0.0.0.0:54109 ! R:localhost/127.0.0.1:20090] The connection observed an error
+reactor.netty.http.client.PrematureCloseException: Connection prematurely closed BEFORE response
+21:22:26.577 logback [reactor-http-nio-1] ERROR reactor.core.publisher.Operators - Operator called default onErrorDropped
+reactor.netty.http.client.PrematureCloseException: Connection prematurely closed BEFORE response
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to GET http://localhost:20090/supervise/test/mono1 [DefaultWebClient]
+Stack trace:
+21:22:26.577 logback [reactor-http-nio-2] WARN  reactor.netty.channel.FluxReceive - [id: 0x9b3427c6, L:0.0.0.0/0.0.0.0:54108 ! R:localhost/127.0.0.1:20090] An exception has been observed post termination, use DEBUG level to see the full stack: reactor.core.Exceptions$ErrorCallbackNotImplemented: reactor.netty.http.client.PrematureCloseException: Connection prematurely closed BEFORE response
+21:22:26.578 logback [reactor-http-nio-1] WARN  reactor.netty.channel.FluxReceive - [id: 0xe98612c9, L:0.0.0.0/0.0.0.0:54109 ! R:localhost/127.0.0.1:20090] An exception has been observed post termination, use DEBUG level to see the full stack: reactor.core.Exceptions$BubblingException: reactor.netty.http.client.PrematureCloseException: Connection prematurely closed BEFORE response
+21:25:04.949 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 86343 (started by develop in /www/haoweilai/demo)
+21:25:04.952 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+21:25:07.107 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 3.008 seconds (JVM running for 5.023)
+21:25:07.426 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+21:25:07.673 logback [main] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+21:25:07.747 logback [reactor-http-nio-2] ERROR reactor.core.publisher.Operators - Operator called default onErrorDropped
+java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to POST http://localhost:20090/supervise/test/mono2 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:25:07.747 logback [reactor-http-nio-1] WARN  i.n.util.concurrent.DefaultPromise - An exception was thrown by reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete()
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.IllegalStateException: executor not accepting a task
+Caused by: java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to GET http://localhost:20090/supervise/test/mono1 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:25:07.748 logback [reactor-http-nio-2] WARN  i.n.util.concurrent.DefaultPromise - An exception was thrown by reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete()
+reactor.core.Exceptions$BubblingException: java.lang.IllegalStateException: executor not accepting a task
+	at reactor.core.Exceptions.bubble(Exceptions.java:170)
+	at reactor.core.publisher.Operators.onErrorDropped(Operators.java:521)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.innerError(FluxFlatMap.java:843)
+	at reactor.core.publisher.FluxFlatMap$FlatMapInner.onError(FluxFlatMap.java:979)
+	at reactor.core.publisher.MonoFlatMap$FlatMapMain.onError(MonoFlatMap.java:165)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onError(Operators.java:1863)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onError(FluxOnAssembly.java:390)
+	at reactor.core.publisher.FluxHide$SuppressFuseableSubscriber.onError(FluxHide.java:132)
+	at reactor.core.publisher.FluxMap$MapSubscriber.onError(FluxMap.java:126)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:214)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:214)
+	at reactor.core.publisher.MonoNext$NextSubscriber.onError(MonoNext.java:87)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onError(MonoFlatMapMany.java:197)
+	at reactor.core.publisher.FluxRetryPredicate$RetryPredicateSubscriber.onError(FluxRetryPredicate.java:101)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect$TcpClientSubscriber.onError(HttpClientConnect.java:345)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.resources.PooledConnectionProvider$DisposableAcquire.onError(PooledConnectionProvider.java:493)
+	at reactor.netty.internal.shaded.reactor.pool.AbstractPool$Borrower.fail(AbstractPool.java:381)
+	at reactor.netty.internal.shaded.reactor.pool.SimplePool.lambda$drainLoop$7(SimplePool.java:206)
+	at reactor.core.publisher.LambdaMonoSubscriber.doError(LambdaMonoSubscriber.java:152)
+	at reactor.core.publisher.LambdaMonoSubscriber.onError(LambdaMonoSubscriber.java:147)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete(PooledConnectionProvider.java:304)
+	at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete(PooledConnectionProvider.java:254)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+	at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:608)
+	at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:117)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:231)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to POST http://localhost:20090/supervise/test/mono2 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:32:25.093 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 93846 (started by develop in /www/haoweilai/demo)
+21:32:25.096 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+21:32:27.017 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Started UserServiceTest in 2.591 seconds (JVM running for 4.558)
+21:32:27.709 logback [reactor-http-nio-3] ERROR reactor.core.publisher.Operators - Operator called default onErrorDropped
+java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to GET http://localhost:20090/supervise/test/mono2 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:32:27.709 logback [reactor-http-nio-2] WARN  i.n.util.concurrent.DefaultPromise - An exception was thrown by reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete()
+reactor.core.Exceptions$ErrorCallbackNotImplemented: java.lang.IllegalStateException: executor not accepting a task
+Caused by: java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to GET http://localhost:20090/supervise/test/mono2 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:32:27.709 logback [reactor-http-nio-1] ERROR reactor.core.publisher.Operators - Operator called default onErrorDropped
+java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to GET http://localhost:20090/supervise/test/mono2 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:32:27.710 logback [reactor-http-nio-3] WARN  i.n.util.concurrent.DefaultPromise - An exception was thrown by reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete()
+reactor.core.Exceptions$BubblingException: java.lang.IllegalStateException: executor not accepting a task
+	at reactor.core.Exceptions.bubble(Exceptions.java:170)
+	at reactor.core.publisher.Operators.onErrorDropped(Operators.java:521)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.innerError(FluxFlatMap.java:843)
+	at reactor.core.publisher.FluxFlatMap$FlatMapInner.onError(FluxFlatMap.java:979)
+	at reactor.core.publisher.MonoFlatMap$FlatMapMain.onError(MonoFlatMap.java:165)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onError(Operators.java:1863)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onError(FluxOnAssembly.java:390)
+	at reactor.core.publisher.FluxMap$MapSubscriber.onError(FluxMap.java:126)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:214)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:214)
+	at reactor.core.publisher.MonoNext$NextSubscriber.onError(MonoNext.java:87)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onError(MonoFlatMapMany.java:197)
+	at reactor.core.publisher.FluxRetryPredicate$RetryPredicateSubscriber.onError(FluxRetryPredicate.java:101)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect$TcpClientSubscriber.onError(HttpClientConnect.java:345)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.resources.PooledConnectionProvider$DisposableAcquire.onError(PooledConnectionProvider.java:493)
+	at reactor.netty.internal.shaded.reactor.pool.AbstractPool$Borrower.fail(AbstractPool.java:381)
+	at reactor.netty.internal.shaded.reactor.pool.SimplePool.lambda$drainLoop$7(SimplePool.java:206)
+	at reactor.core.publisher.LambdaMonoSubscriber.doError(LambdaMonoSubscriber.java:152)
+	at reactor.core.publisher.LambdaMonoSubscriber.onError(LambdaMonoSubscriber.java:147)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete(PooledConnectionProvider.java:304)
+	at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete(PooledConnectionProvider.java:254)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+	at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:608)
+	at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:117)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:231)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to GET http://localhost:20090/supervise/test/mono2 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+21:32:27.710 logback [reactor-http-nio-1] WARN  i.n.util.concurrent.DefaultPromise - An exception was thrown by reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete()
+reactor.core.Exceptions$BubblingException: java.lang.IllegalStateException: executor not accepting a task
+	at reactor.core.Exceptions.bubble(Exceptions.java:170)
+	at reactor.core.publisher.Operators.onErrorDropped(Operators.java:521)
+	at reactor.core.publisher.FluxFlatMap$FlatMapMain.innerError(FluxFlatMap.java:843)
+	at reactor.core.publisher.FluxFlatMap$FlatMapInner.onError(FluxFlatMap.java:979)
+	at reactor.core.publisher.MonoFlatMap$FlatMapMain.onError(MonoFlatMap.java:165)
+	at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onError(Operators.java:1863)
+	at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onError(FluxOnAssembly.java:390)
+	at reactor.core.publisher.FluxMap$MapSubscriber.onError(FluxMap.java:126)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:214)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:214)
+	at reactor.core.publisher.MonoNext$NextSubscriber.onError(MonoNext.java:87)
+	at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onError(MonoFlatMapMany.java:197)
+	at reactor.core.publisher.FluxRetryPredicate$RetryPredicateSubscriber.onError(FluxRetryPredicate.java:101)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect$TcpClientSubscriber.onError(HttpClientConnect.java:345)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.resources.PooledConnectionProvider$DisposableAcquire.onError(PooledConnectionProvider.java:493)
+	at reactor.netty.internal.shaded.reactor.pool.AbstractPool$Borrower.fail(AbstractPool.java:381)
+	at reactor.netty.internal.shaded.reactor.pool.SimplePool.lambda$drainLoop$7(SimplePool.java:206)
+	at reactor.core.publisher.LambdaMonoSubscriber.doError(LambdaMonoSubscriber.java:152)
+	at reactor.core.publisher.LambdaMonoSubscriber.onError(LambdaMonoSubscriber.java:147)
+	at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:183)
+	at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete(PooledConnectionProvider.java:304)
+	at reactor.netty.resources.PooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.operationComplete(PooledConnectionProvider.java:254)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+	at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:608)
+	at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:117)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:231)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalStateException: executor not accepting a task
+	at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	|_ checkpoint ⇢ Request to GET http://localhost:20090/supervise/test/mono2 [DefaultWebClient]
+Stack trace:
+		at io.netty.resolver.AddressResolverGroup.getResolver(AddressResolverGroup.java:60)
+		at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:194)
+		at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:48)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:182)
+		at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:168)
+		at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:577)
+		at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:551)
+		at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:490)
+		at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:615)
+		at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:604)
+		at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+		at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:985)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:505)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+		at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:163)
+		at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+		at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+		at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+		at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+		at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+		at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+		at java.lang.Thread.run(Thread.java:748)
+22:00:32.088 logback [main] INFO  c.e.w.demo.router.UserServiceTest - Starting UserServiceTest on localhost with PID 22814 (started by develop in /www/haoweilai/demo)
+22:00:32.106 logback [main] INFO  c.e.w.demo.router.UserServiceTest - No active profile set, falling back to default profiles: default
+22:00:40.667 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 22987 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+22:00:40.682 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+22:00:41.885 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+22:00:41.890 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 1.999 seconds (JVM running for 2.823)
+22:01:19.697 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+22:01:19.987 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+22:01:19.989 logback [reactor-http-nio-3] ERROR c.e.w.demo.router.UserService - webCLient 请求失败：block()/blockFirst()/blockLast() are blocking, which is not supported in thread reactor-http-nio-3
+22:03:55.656 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 26307 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+22:03:55.659 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+22:03:56.895 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+22:03:56.900 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 2.074 seconds (JVM running for 2.884)
+22:04:12.894 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+22:04:13.081 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+22:17:06.988 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 39617 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+22:17:06.993 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+22:17:08.247 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+22:17:08.252 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 2.437 seconds (JVM running for 3.504)
+22:17:15.870 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+22:17:16.035 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2
+22:30:30.401 logback [main] INFO  c.e.webclient.demo.DemoApplication - Starting DemoApplication on localhost with PID 53251 (/www/haoweilai/demo/target/classes started by develop in /www/haoweilai/demo)
+22:30:30.406 logback [main] INFO  c.e.webclient.demo.DemoApplication - No active profile set, falling back to default profiles: default
+22:30:31.744 logback [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port(s): 30090
+22:30:31.749 logback [main] INFO  c.e.webclient.demo.DemoApplication - Started DemoApplication in 2.134 seconds (JVM running for 3.07)
+22:30:37.239 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: GET http://localhost:20090/supervise/test/mono1
+22:30:37.377 logback [reactor-http-nio-3] INFO  c.e.w.demo.service.WebClientService - Request: POST http://localhost:20090/supervise/test/mono2

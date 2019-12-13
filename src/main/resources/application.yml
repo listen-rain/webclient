@@ -1,0 +1,5 @@
+server:
+  port: 30090
+logging:
+  config:
+    classpath: logback-spring.xml
